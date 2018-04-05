@@ -9,3 +9,5 @@ Code written in Octave 4.2.1
 
 * Ex3: Implementation of multiclass (one-vs-all) Logistic Regression.  Implementation of forward-feed Neural Network.
 
+* Ex4: Implementation of back-propagation algorithm within neural network architectures.
+
