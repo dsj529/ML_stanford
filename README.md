@@ -11,3 +11,5 @@ Code written in Octave 4.2.1
 
 * Ex4: Implementation of back-propagation algorithm within neural network architectures.
 
+* Ex5: Implementation of regularized mutivariate linear regression.  Also implementation of performance evaluation techniques to diagnose overfit/underfit due to high variance or bias.
+
