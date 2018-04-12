@@ -14,3 +14,5 @@ Code written in Octave 4.2.1
 * Ex5: Implementation of regularized mutivariate linear regression.  Also implementation of performance evaluation techniques to diagnose overfit/underfit due to high variance or bias.
 
 * Ex6: Implementation of Support Vector Machines using LIBSVM and a Gaussian/RBF kernel function.
+
+* Ex7: Implementation of K-means Clustering; Implementation of PCA dimensional reduction and recovery.
