@@ -16,3 +16,5 @@ Code written in Octave 4.2.1
 * Ex6: Implementation of Support Vector Machines using LIBSVM and a Gaussian/RBF kernel function.
 
 * Ex7: Implementation of K-means Clustering; Implementation of PCA dimensional reduction and recovery.
+
+* Ex8: Implementation of Gaussian-based anomaly detection; Implementation of collaborative filtering recommendation algorithm.
